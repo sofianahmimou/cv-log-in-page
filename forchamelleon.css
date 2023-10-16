@@ -1,0 +1,52 @@
+body {
+     background-color:whitesmoke;
+}
+h2 {
+     font-family: sans-serif;
+     font-weight: 100;
+     text-align: center;
+}
+.log-1 {
+     height: 70px;
+     width: 300px;
+     border: none;
+     background-color: black;
+     color: white;
+     cursor: pointer;
+     border-radius: 2px;
+
+}
+::placeholder {
+     color: white;
+     font-size:small;
+     font-family: sans-serif;
+     font-weight: 100;
+
+}
+.remember-1{
+     font-weight: 100;
+     font-family: sans-serif;
+
+}
+.ff-1 {
+     border: none;
+     background-color: black;
+     border-radius: 100px;
+     height: 35px;
+     cursor: pointer;
+     font-weight: 100;
+     color: greenyellow; 
+     border-left: 90px;
+
+}
+.v1 {
+     background-color: black;
+     border: none;
+     border-radius: 100px;
+     height: 65px;
+     width: 300px;
+     font-weight: 100;
+     color:greenyellow;
+     font-size: x-large;
+    
+}
